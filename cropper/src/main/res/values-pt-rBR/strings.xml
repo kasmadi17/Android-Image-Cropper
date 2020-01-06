@@ -10,5 +10,7 @@
     <string name="crop_image_menu_flip_vertically">Espelhar na vertifcal</string>
 
     <string name="pick_image_intent_chooser_title">Escolher foto a partir de</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
 
 </resources>

@@ -12,5 +12,7 @@
     <string name="pick_image_intent_chooser_title">Välj bild</string>
 
     <string name="crop_image_activity_no_permissions">Avbryter, nödvändiga behörigheter beviljas inte</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
 
 </resources>

@@ -12,5 +12,7 @@
     <string name="pick_image_intent_chooser_title">اختر مصدرًا</string>
 
     <string name="crop_image_activity_no_permissions">إلغاء؛ الأذونات المطلوبة غير ممنوحة</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
 
 </resources>

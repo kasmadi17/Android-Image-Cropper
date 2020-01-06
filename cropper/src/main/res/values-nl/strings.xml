@@ -12,5 +12,7 @@
     <string name="pick_image_intent_chooser_title">Bron selecteren</string>
 
     <string name="crop_image_activity_no_permissions">Wordt geannuleerd, vereiste machtigingen zijn niet toegekend</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
 
 </resources>

@@ -9,4 +9,6 @@
     <string name="crop_image_menu_flip_vertically">Retourner verticalement</string>
     <string name="pick_image_intent_chooser_title">Sélectionner la source</string>
     <string name="crop_image_activity_no_permissions">Annulation, il manque des permissions requises</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
 </resources>

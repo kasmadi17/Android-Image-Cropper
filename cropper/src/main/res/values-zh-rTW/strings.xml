@@ -12,5 +12,7 @@
     <string name="pick_image_intent_chooser_title">選擇來源</string>
 
     <string name="crop_image_activity_no_permissions">取消中，未授予所需權限</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
 
 </resources>
