@@ -34,7 +34,7 @@ publishing {
             artifactId PUBLISH_ARTIFACT_ID
             version PUBLISH_VERSION + '-SNAPSHOT'
 
-            //artifact bundleRelease
+//            artifact bundleRelease
         }
     }
 }
